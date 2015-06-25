@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hoja de Ruta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- DATOS DEL REPARTO -->
+    <string name="delivery_data_title">DATOS DEL REPARTO</string>
+    <string name="delivery_data_patente">Patente</string>
+    <string name="delivery_data_conductor">Conductor</string>
+    <string name="delivery_data_cliente">Cliente</string>
+    <string name="delivery_data_origen">Origen</string>
+    <string name="delivery_data_fecha_carga">Fecha Carga</string>
+    <string name="delivery_data_ayudante">Ayudante</string>
+    <string name="delivery_data_fecha_reparto">Fecha Reparto</string>
+    <string name="delivery_data_folio">Folio/Guia</string>
+    <string name="delivery_data_supermercados">Cantidad de Supermercados</string>
+    <string name="delivery_data_panaderia">Panadería/Otros</string>
+    <string name="delivery_data_km_salida">KM Salida</string>
+    <string name="delivery_data_km_llegada">KM Llegada</string>
+    <string name="delivery_data_carga">Carga (Kg)</string>
+    <string name="delivery_data_destino_mas_lejano">Destino más lejano</string>
+
+</resources>
